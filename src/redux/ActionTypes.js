@@ -1,0 +1,8 @@
+export const ADD_REWARD = 'ADD_REWARD';
+export const REWARD_LOADING = 'REWARD_LOADING';
+export const REWARD_FAILED = 'REWARD_FAILED';
+
+
+export const ADD_ACCOUNT = 'ADD_ACCOUNT';
+export const ACCOUNT_LOADING = 'ACCOUNT_LOADING';
+export const ACCOUNT_FAILED = 'ACCOUNT_FAILED';
